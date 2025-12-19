@@ -1,5 +1,3 @@
-# B-YOLOJ-KEMOSENTEZ-
-Biyoloji konu anlatımı 
 <!DOCTYPE html>
 <html lang="tr">
 <head>
